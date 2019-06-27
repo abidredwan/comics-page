@@ -1,6 +1,17 @@
-.comic_img { height: 350px; }
+body {
+    margin: 0;
+    background-color: #303030!important;
+    color: white!important;
+    font-family: 'Ubuntu', sans-serif!important;
+}
 
-.btn_center { text-align: center; margin-top: 10px;}
+p {
+    color: white;
+}
+
+.comic_img { height: 350px; border: 5px solid tomato; border-radius: 5px; }
+
+.btn_center { text-align: center; margin-top: 10px; }
 
 .breadcrumb-item + .breadcrumb-item::before {
     content: ">";
@@ -9,3 +20,5 @@
 comic_detail {
    
 }
+
+.title { margin: 50px; font-family: 'Ubuntu', sans-serif; font-weight: bold; }
