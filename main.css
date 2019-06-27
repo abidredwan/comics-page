@@ -3,6 +3,7 @@ body {
     background-color: #303030!important;
     color: white!important;
     font-family: 'Ubuntu', sans-serif!important;
+    padding-bottom: 100px;
 }
 
 p {
