@@ -1,0 +1,11 @@
+.comic_img { height: 350px; }
+
+.btn_center { text-align: center; margin-top: 10px;}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    content: ">";
+}
+
+comic_detail {
+   
+}
